@@ -89,3 +89,5 @@ Highlights high-spending age groups and helps align campaigns and product positi
 •Promote Top Categories: Clothing and accessories bring the most revenue and engagement.
 
 ### 6.	Screenshots / Demos
+
+ ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
