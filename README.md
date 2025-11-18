@@ -1,16 +1,16 @@
 # Customer-Behavior-DashBoard
 A complete end-to-end Customer Shopping Behavior Analysis project .It includes Python-based data cleaning, SQL-driven business analysis, and a Power BI dashboard for interactive insights.
 
-### 1.	Project Title / Headline
+### 	Project Title / Headline
 A concise, descriptive name for the dashboard.
 Example: 
 ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
 A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
 
-### 2.	Short Description / Purpose
+### 	Short Description / Purpose
 The Customer Behavior Analytics Dashboard provides a complete view of customer demographics, purchase habits, product category performance, shipping preferences, and subscription trends. This dashboard helps businesses understand who their customers are, what they buy, and how they behave—enabling data-driven marketing, segmentation, and retention strategies.
 
-### 3.	Tech Stack
+### Tech Stack
 The dashboard was built using the following tools and technologies:
 
 •📊 Power BI Desktop – Core visualization tool for dashboard creation<br>
@@ -21,7 +21,7 @@ The dashboard was built using the following tools and technologies:
 •📝 SQL (PostgreSQL) – Performed structured analysis on buying patterns, segmentation, and product trends
 
 
-### 4.	Data Source
+### Data Source
 Source: Internal transactional dataset of 3,900 customer purchases.
 
 Data Includes:
@@ -88,6 +88,6 @@ Highlights high-spending age groups and helps align campaigns and product positi
 •  Target High-Value Segments: Young adults and middle-aged groups drive large revenue portions.
 •Promote Top Categories: Clothing and accessories bring the most revenue and engagement.
 
-### 6.	Screenshots / Demos
+### Screenshots / Demos
 
- ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+ ![Dashboard Preview](https://github.com/atashshaikh/Customer-Behavior-DashBoard/blob/main/Dashboard_image.png)
